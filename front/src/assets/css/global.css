@@ -1,0 +1,50 @@
+html, body, #app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.el-drawer{
+  overflow: auto;
+ 
+}
+.CT .el-input{
+    width: 300px !important;
+}
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.demo-table-expand label {
+    color: #99a9bf;
+
+  }
+.el-table{
+  font-size: 14px !important;
+}
+  .input-with-select .el-input-group__prepend {
+    background-color: #fff;
+  }
+  .el-select .el-input {
+    width: 100px;
+  }
+
+
+.el-table{
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.el-pagination{
+    margin-top: 15px;
+}
+
+.font-content{
+    font-size: 18px;
+    text-indent: 30px;
+    line-height: 1.8em;
+    letter-spacing: 0.1em;
+    font-family:Arial,Helvetica,sans-serif;
+    
+}

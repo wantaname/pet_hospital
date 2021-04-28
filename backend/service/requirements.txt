@@ -1,0 +1,16 @@
+certifi==2019.11.28
+chardet==3.0.4
+click==7.1.1
+Flask==1.1.1
+Flask-Cors==3.0.8
+Flask-HTTPAuth==3.3.0
+idna==2.9
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+PyMySQL==0.9.3
+requests==2.23.0
+six==1.14.0
+urllib3==1.25.8
+uWSGI==2.0.18
+Werkzeug==1.0.0

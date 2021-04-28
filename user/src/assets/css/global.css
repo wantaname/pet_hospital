@@ -1,0 +1,101 @@
+html, body, #app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.el-progress__text{
+    color: red;
+}
+
+
+canvas{
+    border-radius: 15px;
+}
+.is-success{
+    color: green !important;
+    font-weight: bold;
+}
+.is-process {
+    color: orange !important;
+    font-weight: bold;
+}
+.is-wait {
+    color: #FF7C7C !important;
+
+
+}
+
+/*图片预览*/
+.img .el-image__inner{
+    width: auto!important;
+    height: 380px !important;
+    width: auto;
+}
+.el-step{
+    cursor: pointer;
+}
+/*!* 媒体查询 *!*/
+/*@media screen and (max-width: 777px){*/
+/*  #main{*/
+/*      width: 100%;*/
+/*      height: 90%;*/
+/*  }*/
+/*  .el-card__body{*/
+/*    padding: 20px 1px !important;*/
+/*}*/
+
+/* */
+/*}*/
+
+/*!* 媒体查询 *!*/
+/*@media screen and (min-width: 777px){*/
+/*  #main{*/
+/*    width: 70%;*/
+/*    height: 90%;*/
+/*    margin: 0 auto;*/
+/*  }*/
+/*  .el-card__body{*/
+/*    padding: 20px !important;*/
+/*}*/
+/*}*/
+
+
+
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.demo-table-expand label {
+    color: #99a9bf;
+
+  }
+.el-table{
+  font-size: 14px !important;
+}
+  .input-with-select .el-input-group__prepend {
+    background-color: #fff;
+  }
+ 
+  .el-select .el-input{
+    width: 150px ;
+}
+
+.el-table{
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.el-pagination{
+    margin-top: 15px;
+}
+
+.font-content{
+    font-size: 18px;
+    text-indent: 30px;
+    line-height: 1.8em;
+    letter-spacing: 0.1em;
+    font-family:Arial,Helvetica,sans-serif;
+    
+}
+
